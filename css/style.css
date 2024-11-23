@@ -116,7 +116,7 @@
  
  .background-image
  {
-   background-image: url('../_images/homepage.jpg');
+   background-image: url('../images/homepage.jpg');
    background-size: cover;
    background-repeat: no-repeat;
    height: 100vh;
