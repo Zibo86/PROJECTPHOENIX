@@ -1,0 +1,59 @@
+.divprim
+{
+    
+  margin: auto;
+  padding-right: 50%;
+  padding-left: 50%;
+  width: auto;
+  height:auto;
+  
+
+    
+}
+.divseg
+{
+  margin: auto;
+  box-sizing: border-box;
+   padding-top: 250px;
+   
+ padding-bottom:  120px;
+ height: 1200px;;
+  width: 260px;
+  
+  float: left;
+
+  
+
+}
+figure
+{
+position: relative;
+float: left;
+margin-left:20px;
+margin-bottom: 20px;
+
+}
+
+.div3thi
+{
+  height:auto;
+  width:80vw;
+  margin-top: -1.5%;
+  padding-left: 10%;
+  margin-left: 10%;
+  box-sizing: content-box;
+ 
+
+  
+  
+}
+.div4q
+{
+  height:auto;
+  width: auto;
+  margin-top: -1%;
+  
+  
+  
+  
+}
